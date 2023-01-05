@@ -46,7 +46,6 @@ public class Ex12 {
 			}
 		}
 		
-		
 		for(int i = 0; i < 5; i++) {
 			System.out.println(nome[i] + " obteu " + nota1[i] + " pontos na primeira unidade e " + nota2[i] + " na segunda unidade e obteve uma média igual a :" + resultado[i] + ". Desse modo ele foi " + situacaoNota[i]);
 		}
